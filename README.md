@@ -41,5 +41,5 @@ This project demonstrates a wireless QR code scanner built using the ESP32-CAM m
 
 ### 3. Run Python QR Scanner
 
-- Run the `qrscanner.py` script in the `python-opencv/` folder
+- Run the `qrscanner.py` script
 - It will access the video stream and scan for QR codes in real time
