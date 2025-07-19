@@ -29,7 +29,7 @@ This project demonstrates a wireless QR code scanner built using the ESP32-CAM m
 ### 1. Flash ESP32-CAM
 
 - Install the ESP32 board manager in Arduino IDE
-- Use the `ESP32-CAM` sketch provided in the `esp32-cam-code/` folder
+- Use the `ESP32-CAM` sketch
 - Set your Wi-Fi credentials in the sketch
 - Upload the code
 
